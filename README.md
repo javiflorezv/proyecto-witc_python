@@ -11,6 +11,7 @@ python3 main.py
 ``` sh
 git clone
 cd app
+python -m venv env
 source env/bin/activate
 pip3 install -r requirements.txt esta linea de codigo instala todas las dependencias que se necesitan
 python3 main.py
