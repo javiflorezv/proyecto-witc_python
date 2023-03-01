@@ -12,6 +12,6 @@ python3 main.py
 git clone
 cd app
 source env/bin/activate
-pip3 install -r requirements.txt
+pip3 install -r requirements.txt esta linea de codigo instala todas las dependencias que se necesitan
 python3 main.py
 ```
